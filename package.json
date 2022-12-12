@@ -10,7 +10,7 @@
   "dependencies": {
     "@typescript-eslint/parser": "^2.28.0",
     "eslint-plugin-import": "^2.20.1",
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   },
   "devDependencies": {
     "@types/express": "^4.17.6",
